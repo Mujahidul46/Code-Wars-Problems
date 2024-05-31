@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code Wars Problem Solving\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.csproj": {}
+    "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code Wars Problem Solving\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.csproj": {
+    "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code Wars Problem Solving\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.csproj",
+        "projectUniqueName": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.csproj",
         "projectName": "RGBToHexConversion",
-        "projectPath": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code Wars Problem Solving\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.csproj",
+        "projectPath": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.csproj",
         "packagesPath": "C:\\Users\\Taqiyah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code Wars Problem Solving\\2-RGBToHexConversion\\RGBToHexConversion\\obj\\",
+        "outputPath": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\2-RGBToHexConversion\\RGBToHexConversion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Taqiyah\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RGBToHexConversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba35b973a4d5d5bcb82bbd3e2ece9ee6f78329a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("RGBToHexConversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RGBToHexConversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RGBToHexConversion
-build_property.ProjectDir = C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\
+build_property.ProjectDir = C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\2-RGBToHexConversion\RGBToHexConversion\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

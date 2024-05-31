@@ -1,0 +1,15 @@
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\net8.0\CreatePhoneNumber.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\net8.0\CreatePhoneNumber.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\net8.0\CreatePhoneNumber.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\net8.0\CreatePhoneNumber.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\bin\Debug\net8.0\CreatePhoneNumber.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\net8.0\CreatePhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\net8.0\CreatePhoneNumber.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\net8.0\CreatePhoneNumber.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\net8.0\CreatePhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\net8.0\CreatePhoneNumber.sourcelink.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\net8.0\CreatePhoneNumber.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\net8.0\refint\CreatePhoneNumber.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\net8.0\CreatePhoneNumber.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\net8.0\CreatePhoneNumber.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CreatePhoneNumber\CreatePhoneNumber\obj\Debug\net8.0\ref\CreatePhoneNumber.dll

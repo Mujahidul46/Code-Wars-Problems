@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code Wars Problem Solving\\2-RGBToHexConversion\\",
+  "WorkspaceRootPath": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\2-RGBToHexConversion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE76B5AE-20E3-45F8-9BBE-81F1D29F6F39}|RGBToHexConversion\\RGBToHexConversion.csproj|c:\\users\\taqiyah\\onedrive\\desktop\\c# projects\\code wars problem solving\\2-rgbtohexconversion\\rgbtohexconversion\\rgbtohexconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE76B5AE-20E3-45F8-9BBE-81F1D29F6F39}|RGBToHexConversion\\RGBToHexConversion.csproj|c:\\users\\taqiyah\\onedrive\\desktop\\c# projects\\code-wars-problems\\2-rgbtohexconversion\\rgbtohexconversion\\rgbtohexconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE76B5AE-20E3-45F8-9BBE-81F1D29F6F39}|RGBToHexConversion\\RGBToHexConversion.csproj|solutionrelative:rgbtohexconversion\\rgbtohexconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RGBToHexConversion.cs",
-              "DocumentMoniker": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code Wars Problem Solving\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.cs",
+              "DocumentMoniker": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.cs",
               "RelativeDocumentMoniker": "RGBToHexConversion\\RGBToHexConversion.cs",
-              "ToolTip": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code Wars Problem Solving\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.cs",
+              "ToolTip": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\2-RGBToHexConversion\\RGBToHexConversion\\RGBToHexConversion.cs",
               "RelativeToolTip": "RGBToHexConversion\\RGBToHexConversion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwBkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T15:36:26.983Z",
               "EditorCaption": ""
