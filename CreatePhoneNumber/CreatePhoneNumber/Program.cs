@@ -5,7 +5,7 @@ class MyClass
     static void Main()
     {
         // Get the formatted phone number and store it 
-        string formattedPhoneNumber = CreatePhoneNumber(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 }); // => returns "(123) 456-7890"
+        string formattedPhoneNumber = CreatePhoneNumberMethod1(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 }); // => returns "(123) 456-7890"
 
         // Display the formatted phone number
         Console.WriteLine(formattedPhoneNumber);
@@ -15,7 +15,18 @@ class MyClass
         Console.ReadLine();
     }
 
-    public static string CreatePhoneNumber(int[] numbers)
+    public static string CreatePhoneNumberMethod1(int[] numbers)
+    {
+        // Store the 3 distinct parts of the number in 3 variables.
+        string first = $"{numbers[0]}{numbers[1]}{numbers[2]}"; // 123
+        string second = $"{numbers[3]}{numbers[4]}{numbers[5]}"; // 456
+        string third = $"{numbers[6]}{numbers[7]}{numbers[8]}{numbers[9]}"; // 7890
+
+        // Return the formatted string
+        return $"({first}) {second}-{third}";
+    }
+
+    public static string CreatePhoneNumberMethod2(int[] numbers)
     {
         // Store the array of numbers as a string
         string stringNumbers = "";
