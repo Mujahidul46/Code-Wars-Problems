@@ -1,0 +1,28 @@
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\bin\Debug\net8.0\RemoveStringSpaces.cs.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\bin\Debug\net8.0\RemoveStringSpaces.cs.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\bin\Debug\net8.0\RemoveStringSpaces.cs.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\bin\Debug\net8.0\RemoveStringSpaces.cs.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\bin\Debug\net8.0\RemoveStringSpaces.cs.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\obj\Debug\net8.0\refint\RemoveStringSpaces.cs.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\CodingStuff\CodingStuff\obj\Debug\net8.0\ref\RemoveStringSpaces.cs.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\bin\Debug\net8.0\RemoveStringSpaces.cs.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\bin\Debug\net8.0\RemoveStringSpaces.cs.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\bin\Debug\net8.0\RemoveStringSpaces.cs.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\bin\Debug\net8.0\RemoveStringSpaces.cs.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\bin\Debug\net8.0\RemoveStringSpaces.cs.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\obj\Debug\net8.0\refint\RemoveStringSpaces.cs.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\obj\Debug\net8.0\RemoveStringSpaces.cs.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\1-RemoveStringSpaces\CodingStuff\obj\Debug\net8.0\ref\RemoveStringSpaces.cs.dll

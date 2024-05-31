@@ -1,0 +1,14 @@
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\bin\Debug\net8.0\RGBToHexConversion.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\bin\Debug\net8.0\RGBToHexConversion.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\bin\Debug\net8.0\RGBToHexConversion.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\bin\Debug\net8.0\RGBToHexConversion.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\bin\Debug\net8.0\RGBToHexConversion.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\obj\Debug\net8.0\RGBToHexConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\obj\Debug\net8.0\RGBToHexConversion.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\obj\Debug\net8.0\RGBToHexConversion.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\obj\Debug\net8.0\RGBToHexConversion.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\obj\Debug\net8.0\RGBToHexConversion.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\obj\Debug\net8.0\refint\RGBToHexConversion.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\obj\Debug\net8.0\RGBToHexConversion.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\obj\Debug\net8.0\RGBToHexConversion.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code Wars Problem Solving\2-RGBToHexConversion\RGBToHexConversion\obj\Debug\net8.0\ref\RGBToHexConversion.dll
