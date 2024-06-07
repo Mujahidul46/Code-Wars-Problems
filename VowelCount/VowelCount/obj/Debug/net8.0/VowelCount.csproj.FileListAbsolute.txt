@@ -1,0 +1,15 @@
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\bin\Debug\net8.0\VowelCount.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\bin\Debug\net8.0\VowelCount.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\bin\Debug\net8.0\VowelCount.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\bin\Debug\net8.0\VowelCount.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\bin\Debug\net8.0\VowelCount.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\obj\Debug\net8.0\VowelCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\obj\Debug\net8.0\VowelCount.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\obj\Debug\net8.0\VowelCount.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\obj\Debug\net8.0\VowelCount.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\obj\Debug\net8.0\VowelCount.sourcelink.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\obj\Debug\net8.0\VowelCount.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\obj\Debug\net8.0\refint\VowelCount.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\obj\Debug\net8.0\VowelCount.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\obj\Debug\net8.0\VowelCount.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\VowelCount\VowelCount\obj\Debug\net8.0\ref\VowelCount.dll
