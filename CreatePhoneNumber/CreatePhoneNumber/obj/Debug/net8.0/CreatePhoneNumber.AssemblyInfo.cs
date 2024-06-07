@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreatePhoneNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75129cde41923b7bdbbf01ec1f0c5d95efb08208")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52a28ee5956b018177ab16a585bfdc7fb678a8c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreatePhoneNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreatePhoneNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

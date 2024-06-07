@@ -1,11 +1,11 @@
 ﻿using System;
-
+// Methods from best to worst are method 3, then 2, and then 1.
 class MyClass
 {
     static void Main()
     {
         // Get the formatted phone number and store it 
-        string formattedPhoneNumber = CreatePhoneNumberMethod1(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 }); // => returns "(123) 456-7890"
+        string formattedPhoneNumber = CreatePhoneNumberMethod3(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 }); // => returns "(123) 456-7890"
 
         // Display the formatted phone number
         Console.WriteLine(formattedPhoneNumber);
@@ -15,6 +15,7 @@ class MyClass
         Console.ReadLine();
     }
 
+    // Not ideal method because hard to maintain in future
     public static string CreatePhoneNumberMethod1(int[] numbers)
     {
         // Store the 3 distinct parts of the number in 3 variables.
@@ -26,6 +27,7 @@ class MyClass
         return $"({first}) {second}-{third}";
     }
 
+    // Good method but quite long
     public static string CreatePhoneNumberMethod2(int[] numbers)
     {
         // Store the array of numbers as a string
@@ -47,16 +49,30 @@ class MyClass
         for (int i = 0; i < stringNumbers.Length; i++)
         {
             // If at the beginning of the number, concatenate "(" and then the first digit
-            if (i == 0) formattedString += "(" + stringNumbers[i];
+            if (i == 0) 
+                formattedString += "(" + stringNumbers[i];
             // Otherwise, if at the second character, concatenate the digit and then ")" and then a space
-            else if (i == 2) formattedString += stringNumbers[i] + ") ";
+            else if (i == 2) 
+                formattedString += stringNumbers[i] + ") ";
             // Otherwise, if at the fifth character, print the digit and then "-"
-            else if (i == 5) formattedString += stringNumbers[i] + "-";
+            else if (i == 5) 
+                formattedString += stringNumbers[i] + "-";
             // Otherwise, no special character needed so just concatenate the number itself to the formatted string
-            else formattedString += stringNumbers[i];
+            else 
+                formattedString += stringNumbers[i];
         }
 
         // Formatted string now holds something similar to "(123) 456-7890"
         return formattedString;
+    }
+
+    // Good concise method
+    public static string CreatePhoneNumberMethod3(int[] numbers)
+    {
+        // Concatenate the numbers in the array so the commas are removed, and store it as a long
+        long numberWithoutCommas = long.Parse(String.Concat(numbers));
+
+        // Format the string, and then return it
+        return numberWithoutCommas.ToString("(000) 000-0000");
     }
 }
