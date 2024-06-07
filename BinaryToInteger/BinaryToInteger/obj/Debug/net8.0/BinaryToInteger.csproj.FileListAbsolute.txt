@@ -1,0 +1,15 @@
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\bin\Debug\net8.0\BinaryToInteger.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\bin\Debug\net8.0\BinaryToInteger.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\bin\Debug\net8.0\BinaryToInteger.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\bin\Debug\net8.0\BinaryToInteger.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\bin\Debug\net8.0\BinaryToInteger.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\obj\Debug\net8.0\BinaryToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\obj\Debug\net8.0\BinaryToInteger.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\obj\Debug\net8.0\BinaryToInteger.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\obj\Debug\net8.0\BinaryToInteger.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\obj\Debug\net8.0\BinaryToInteger.sourcelink.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\obj\Debug\net8.0\BinaryToInteger.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\obj\Debug\net8.0\refint\BinaryToInteger.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\obj\Debug\net8.0\BinaryToInteger.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\obj\Debug\net8.0\BinaryToInteger.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\BinaryToInteger\BinaryToInteger\obj\Debug\net8.0\ref\BinaryToInteger.dll
