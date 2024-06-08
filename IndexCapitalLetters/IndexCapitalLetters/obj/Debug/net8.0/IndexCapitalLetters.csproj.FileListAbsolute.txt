@@ -1,0 +1,15 @@
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\bin\Debug\net8.0\IndexCapitalLetters.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\bin\Debug\net8.0\IndexCapitalLetters.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\bin\Debug\net8.0\IndexCapitalLetters.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\bin\Debug\net8.0\IndexCapitalLetters.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\bin\Debug\net8.0\IndexCapitalLetters.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\obj\Debug\net8.0\IndexCapitalLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\obj\Debug\net8.0\IndexCapitalLetters.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\obj\Debug\net8.0\IndexCapitalLetters.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\obj\Debug\net8.0\IndexCapitalLetters.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\obj\Debug\net8.0\IndexCapitalLetters.sourcelink.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\obj\Debug\net8.0\IndexCapitalLetters.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\obj\Debug\net8.0\refint\IndexCapitalLetters.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\obj\Debug\net8.0\IndexCapitalLetters.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\obj\Debug\net8.0\IndexCapitalLetters.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\IndexCapitalLetters\IndexCapitalLetters\obj\Debug\net8.0\ref\IndexCapitalLetters.dll
