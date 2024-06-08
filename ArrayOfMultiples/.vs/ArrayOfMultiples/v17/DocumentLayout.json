@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\ArrayOfMultiples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{543A0F79-4BD2-4C57-A954-C28BCD9EBBA9}|ArrayOfMultiples\\ArrayOfMultiples.csproj|c:\\users\\taqiyah\\onedrive\\desktop\\c# projects\\code-wars-problems\\arrayofmultiples\\arrayofmultiples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A0F79-4BD2-4C57-A954-C28BCD9EBBA9}|ArrayOfMultiples\\ArrayOfMultiples.csproj|solutionrelative:arrayofmultiples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\ArrayOfMultiples\\ArrayOfMultiples\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayOfMultiples\\Program.cs",
+              "ToolTip": "C:\\Users\\Taqiyah\\OneDrive\\Desktop\\C# Projects\\Code-Wars-Problems\\ArrayOfMultiples\\ArrayOfMultiples\\Program.cs",
+              "RelativeToolTip": "ArrayOfMultiples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:07:14.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
