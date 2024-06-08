@@ -1,0 +1,15 @@
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\bin\Debug\net8.0\ShortestWord.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\bin\Debug\net8.0\ShortestWord.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\bin\Debug\net8.0\ShortestWord.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\bin\Debug\net8.0\ShortestWord.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\bin\Debug\net8.0\ShortestWord.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\obj\Debug\net8.0\ShortestWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\obj\Debug\net8.0\ShortestWord.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\obj\Debug\net8.0\ShortestWord.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\obj\Debug\net8.0\ShortestWord.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\obj\Debug\net8.0\ShortestWord.sourcelink.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\obj\Debug\net8.0\ShortestWord.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\obj\Debug\net8.0\refint\ShortestWord.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\obj\Debug\net8.0\ShortestWord.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\obj\Debug\net8.0\ShortestWord.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\ShortestWord\ShortestWord\obj\Debug\net8.0\ref\ShortestWord.dll
