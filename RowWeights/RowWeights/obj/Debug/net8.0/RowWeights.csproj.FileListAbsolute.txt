@@ -1,0 +1,15 @@
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\bin\Debug\net8.0\RowWeights.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\bin\Debug\net8.0\RowWeights.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\bin\Debug\net8.0\RowWeights.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\bin\Debug\net8.0\RowWeights.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\bin\Debug\net8.0\RowWeights.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\obj\Debug\net8.0\RowWeights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\obj\Debug\net8.0\RowWeights.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\obj\Debug\net8.0\RowWeights.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\obj\Debug\net8.0\RowWeights.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\obj\Debug\net8.0\RowWeights.sourcelink.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\obj\Debug\net8.0\RowWeights.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\obj\Debug\net8.0\refint\RowWeights.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\obj\Debug\net8.0\RowWeights.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\obj\Debug\net8.0\RowWeights.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\RowWeights\RowWeights\obj\Debug\net8.0\ref\RowWeights.dll
