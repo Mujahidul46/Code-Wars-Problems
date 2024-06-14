@@ -1,0 +1,15 @@
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\obj\Debug\net8.0\CaseReversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\obj\Debug\net8.0\CaseReversal.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\obj\Debug\net8.0\CaseReversal.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\obj\Debug\net8.0\CaseReversal.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\obj\Debug\net8.0\CaseReversal.sourcelink.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\bin\Debug\net8.0\CaseReversal.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\bin\Debug\net8.0\CaseReversal.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\bin\Debug\net8.0\CaseReversal.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\bin\Debug\net8.0\CaseReversal.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\bin\Debug\net8.0\CaseReversal.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\obj\Debug\net8.0\CaseReversal.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\obj\Debug\net8.0\refint\CaseReversal.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\obj\Debug\net8.0\CaseReversal.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\obj\Debug\net8.0\CaseReversal.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\CaseReversal\CaseReversal\obj\Debug\net8.0\ref\CaseReversal.dll
