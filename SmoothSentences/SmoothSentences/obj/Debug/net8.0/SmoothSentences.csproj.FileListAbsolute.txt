@@ -1,0 +1,15 @@
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\bin\Debug\net8.0\SmoothSentences.exe
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\bin\Debug\net8.0\SmoothSentences.deps.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\bin\Debug\net8.0\SmoothSentences.runtimeconfig.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\bin\Debug\net8.0\SmoothSentences.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\bin\Debug\net8.0\SmoothSentences.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\obj\Debug\net8.0\SmoothSentences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\obj\Debug\net8.0\SmoothSentences.AssemblyInfoInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\obj\Debug\net8.0\SmoothSentences.AssemblyInfo.cs
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\obj\Debug\net8.0\SmoothSentences.csproj.CoreCompileInputs.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\obj\Debug\net8.0\SmoothSentences.sourcelink.json
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\obj\Debug\net8.0\SmoothSentences.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\obj\Debug\net8.0\refint\SmoothSentences.dll
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\obj\Debug\net8.0\SmoothSentences.pdb
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\obj\Debug\net8.0\SmoothSentences.genruntimeconfig.cache
+C:\Users\Taqiyah\OneDrive\Desktop\C# Projects\Code-Wars-Problems\SmoothSentences\SmoothSentences\obj\Debug\net8.0\ref\SmoothSentences.dll
